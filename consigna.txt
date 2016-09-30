@@ -1,0 +1,26 @@
+La empresa GALLEGUITAS S.R.L se dedica a la producción y venta de galletitas dulces y saladas.
+
+Habitualmente, se reciben reclamos de los clientes finales (quien consume el producto) de manera telefónica. 
+Los reclamos suelen ser por "Producto faltante", "Producto con feo sabor" o "Producto distinto al envoltorio".
+
+El área de calidad de la empresa recibe los reclamos de manera telefónica y los carga en un archivo excel.
+
+La empresa desea incorporar un formulario web para registrar los reclamos. Dicho formulario estará en la página web de la empresa y será utilizado por los propios clientes. 
+Los datos se almacenarán en una base de datos.
+
+El formulario debe contar con los siguientes campos:
+1) Nombre (Input, solo se deben admitir letras y espacio).
+2) Apellido (Input, solo se deben admitir letras y espacio).
+3) Telefono (Input, solo numeros).
+4) Mail (Input, solo se deben admitir mails).
+5) Categoría (Select, con 2 opciones "Galletitas Dulces" y "Galletitas Saldas")
+6) Producto (Input que mientras el usuario escribe despliega los productos que se ajustan).
+7) Motivo (Select con los 3 motivos especificados anteriormente).
+8) Descripción del incidente
+
+Un ex empleado, llamado Jorge Perez, había comenzado a desarrollar el formulario web pero no lo finalizó.
+
+Se incluye la estructura que él generó.
+
+Se solicita efectuar las modificaciones necesarias para finalizar el desarrollo del formulario.
+
